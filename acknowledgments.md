@@ -1,5 +1,5 @@
 ---  
-title: Introduction
+title: Acknowledgments
 author: 
 - family: Sayers
   given: Jentery
@@ -9,6 +9,5 @@ type: book
 page: TBD
 DOI: TBD  
 URL: TBD
-issued: TBD 
----  
-
+issued: TBD
+---
